@@ -34,10 +34,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/4f483efe07ee4320b98f626ca146f0f7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe
+  src="https://www.loom.com/embed/4f483efe07ee4320b98f626ca146f0f7"
+  title="Video Walkthrough"
+  width="600"
+  height="400"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Video created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -51,7 +58,7 @@ GIF created with ...
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
