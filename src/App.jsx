@@ -5,11 +5,11 @@ const App = () => {
   return (
     <div className="App">
       <h1>Summer in NYC</h1>
-      <h2>Discover Spots To Visit In New York City During The Summer.</h2>
+      <h2>Discover Spots To Visit In New York City During The Summer</h2>
 
       <div className="place-cards-container">
         <PlaceCard 
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg/330px-Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_%2815351915006%29.jpg" 
+          image="https://static.vecteezy.com/system/resources/previews/005/088/062/non_2x/central-park-aerial-view-in-manhattan-new-york-huge-beautiful-park-is-surrounded-by-skyscraper-photo.jpeg" 
           name="Central Park" 
           borough="Manhattan" 
           location="https://maps.app.goo.gl/ZP8CS7UMAKpCXjQcA"
@@ -78,6 +78,7 @@ const App = () => {
           location="https://maps.app.goo.gl/auLCqTCL159MJFMb9"
         />
       </div>
+
     </div>
   );
 };
