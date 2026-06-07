@@ -16,63 +16,63 @@ const App = () => {
         />
 
         <PlaceCard 
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Brooklyn_Bridge_Manhattan.jpg/330px-Brooklyn_Bridge_Manhattan.jpg" 
+          image="https://images.pexels.com/photos/236451/pexels-photo-236451.jpeg?cs=srgb&dl=architecture-bridge-brooklyn-bridge-city-236451.jpg&fm=jpg"
           name="Brooklyn Bridge" 
           borough="Brooklyn" 
           location="https://maps.app.goo.gl/vCW3mvDFHxH8dWPV8"
         />
 
         <PlaceCard 
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/330px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg" 
+          image="https://www.jsonline.com/gcdn/-mm-/da1a872f48ed97eb6defd3820cb60eddd5f01b1f/c=0-10-1496-855/local/-/media/2017/07/10/USATODAY/USATODAY/636352926625258379-StatueofLibertyPaulGanasNPSPhotoCroppedSmall.jpg?width=1496&height=845&fit=crop&format=pjpg&auto=webp"
           name="Statue of Liberty" 
           borough="Manhattan" 
           location="https://maps.app.goo.gl/Wz49pvZmCh98a78x7"
         />
 
         <PlaceCard 
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sunset_on_the_boardwalk_%2848067690428%29.jpg/330px-Sunset_on_the_boardwalk_%2848067690428%29.jpg" 
+          image="https://media.timeout.com/images/103945430/image.jpg"
           name="Rockaway Beach" 
           borough="Queens" 
           location="https://maps.app.goo.gl/rhRZ7USoXMKi6Zeu7"
         />
 
         <PlaceCard 
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Coney_Island_beach_and_amusement_parks_%28June_2016%29.jpg/330px-Coney_Island_beach_and_amusement_parks_%28June_2016%29.jpg" 
+          image="https://images.ctfassets.net/1aemqu6a6t65/4bV6HSFbVMv7fk7hYLPTQF/f4e92af77d820eed565eb4317e166395/Boardwalk-Coney-Island-Brooklyn-NYC-Photo-Brittany-Petronella.jpg"
           name="Coney Island" 
           borough="Brooklyn" 
           location="https://maps.app.goo.gl/ny1DFuVhczXJLneb9"
         />
 
         <PlaceCard
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/QFM_farmhouse_jeh.jpg/330px-QFM_farmhouse_jeh.jpg"
+          image="https://th.bing.com/th/id/R.ee011555252baec07a27da23ba577ca4?rik=roksYJzu0AXlEw&pid=ImgRaw&r=0"
           name="Queens County Farm Museum"
           borough="Queens"
           location="https://maps.app.goo.gl/esLUykthsuNe8w7W6"
         />
 
         <PlaceCard
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Flushing_Meadows%E2%80%93Corona_Park.jpg/330px-Flushing_Meadows%E2%80%93Corona_Park.jpg"
+          image="https://tse4.mm.bing.net/th/id/OIP.ixNS5UzBhCOafYKqgSfqmwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
           name="Flushing Meadows Corona Park"
           borough="Queens"
           location="https://maps.app.goo.gl/5pNDDCwESu4rkSi96"
         />
 
         <PlaceCard
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bronx_Zoo_001.jpg/330px-Bronx_Zoo_001.jpg"
+          image="https://gonewyork.com/wp-content/uploads/2022/02/NYC-Bronx-Zoo-Entrance-AdobeStock_125152163-2048x1365.jpg"
           name="Bronx Zoo"
           borough="Bronx"
           location="https://maps.app.goo.gl/X4g2QKwZuuKcMv5w8"
         />
 
         <PlaceCard
-          image="https://upload.wikimedia.org/wikipedia/commons/8/8a/The_New_York_Botanical_Garden_Visitor_Center.jpg"
+          image="https://th.bing.com/th/id/R.a3c3b653ffe03b31b9feba6851ba1395?rik=GWXkJiYLd%2bYClg&pid=ImgRaw&r=0"
           name="New York Botanical Garden"
           borough="Bronx"
           location="https://maps.app.goo.gl/HqAkyobFYD8ph6Sv9"
         />
 
         <PlaceCard
-          image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hudson_Yards_Plaza_March_2019_53.jpg/330px-Hudson_Yards_Plaza_March_2019_53.jpg"
+          image="https://cdn-imgix.headout.com/media/images/8dac3a22f55050f55960dfdee34f6fc4-30975-new-york-vessel---general-admission-tickets-04.jpg?auto=format&q=90&crop=faces&fit=crop"
           name="Vessel"
           borough="Manhattan"
           location="https://maps.app.goo.gl/auLCqTCL159MJFMb9"
