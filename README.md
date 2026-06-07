@@ -34,7 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/4f483efe07ee4320b98f626ca146f0f7-with-play.gif)](https://www.loom.com/share/4f483efe07ee4320b98f626ca146f0f7)
+## Video Walkthrough
+
+[![Video Walkthrough](./video-thumbnail.png)](https://www.loom.com/share/4f483efe07ee4320b98f626ca146f0f7)
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom
